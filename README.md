@@ -54,9 +54,7 @@ PexelsHub is a web application built with Next.js that integrates with the Pexel
 ## **Screenshots**
 
 Example:  
-![Screenshot of website](./src/images/s1.png)
-![Screenshot of website](./src/images/s2.png)
-![Screenshot of website](./src/images/s3.png)
+![Screenshot of website](./public/S.png)
 
 
 ## Contributing
