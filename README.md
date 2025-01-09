@@ -50,6 +50,15 @@ PexelsHub is a web application built with Next.js that integrates with the Pexel
 
 - `PEXELS_API_KEY`: Your Pexels API key. You can obtain this key from [Pexels API](https://www.pexels.com/api/).
 
+
+## **Screenshots**
+
+Example:  
+![Screenshot of website](./src/images/s1.png)
+![Screenshot of website](./src/images/s2.png)
+![Screenshot of website](./src/images/s3.png)
+
+
 ## Contributing
 
 Feel free to fork the repository and submit pull requests with any improvements or fixes!
